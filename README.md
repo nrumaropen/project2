@@ -42,7 +42,8 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src=./web102_walkthru.gif) title='Video Walkthrough' width='600' alt='Video Walkthrough' />
+<img src=![web102_walkthru](https://github.com/user-attachments/assets/b8f9ba2e-e5b3-449a-9ea8-8a96747e1bd7)
+tle='Video Walkthrough' width='600' alt='Video Walkthrough' />
 
 GIF created with Screentogif 
 
